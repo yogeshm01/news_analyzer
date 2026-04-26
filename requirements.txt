@@ -1,4 +1,6 @@
 streamlit
+torch
+torchvision
 langchain-core
 langchain-text-splitters
 langchain>=0.2.0
